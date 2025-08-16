@@ -129,12 +129,6 @@ ________________________________________
 
 ________________________________________
 
-📜 License
-
-This project is licensed under the MIT License.
-
-________________________________________
-
 ✨ Made with Python, Pandas, Seaborn & Matplotlib.
 
 
